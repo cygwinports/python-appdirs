@@ -1,0 +1,11 @@
+inherit python-wheel
+
+NAME="python-appdirs"
+VERSION=1.4.3
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Python application directories module"
+DESCRIPTION="A small Python module for determining appropriate platform-specific
+directories."
+
+ARCH=noarch
